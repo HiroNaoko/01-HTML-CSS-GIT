@@ -7,7 +7,7 @@ Proyecto Front End
     1.- Instalar VSC
     2.- Instalar Git, para revisar si está, en la consola debe ejecutar: git -v
     3.- En VSC abrir un directorio vacío
-    4.- Abrir la terimnal y ejecutar:
+    4.- Abrir la terminal y ejecutar:
         git clone https:\\....git ===> para clonar el repositorio
     5.- Abrir el nuevo directorio clonado en VSC, puede arrastrar la carpeta al espacio de trabajo para que se abra. Debemos hacer lo demas dentro de la carpeta descargada, no debe haber otra superior en VSC.
     6.- En caso de ser la primera vez que utiliza git debe asignar nombre y correo:
