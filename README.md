@@ -4,7 +4,7 @@ Proyecto Front End
 ## Nombre: Joaquín Roca
 
 # 0.- Instalar 
-    1.- Instalar VSC
+    (1) Instalar VSC (Visual Studio Code)
     2.- Instalar Git, para revisar si está, en la consola debe ejecutar: git -v
     3.- En VSC abrir un directorio vacío
     4.- Abrir la terminal y ejecutar:
