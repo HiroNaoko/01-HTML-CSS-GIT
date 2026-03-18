@@ -16,5 +16,5 @@ Proyecto Front End
 # 1.- Durante el proyecto
     1.- Guardar y subir avances ejecutar:
         git add. ===> permite preparar los archivos para el guardado.
-        git commit -m "comentario" ===> permite guardar el avnace asi puedo volver a este punto de ser necesario, el comentario se agrega para saber que se hizo hasta aquí
+        git commit -m "comentario" ===> permite guardar el avance asi puedo volver a este punto de ser necesario, el comentario se agrega para saber que se hizo hasta aquí
         git push origin main ===> sube el proyecto a GitHub
