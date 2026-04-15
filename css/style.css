@@ -41,4 +41,11 @@ p{
     font-size: 20px;
     letter-spacing: 3px;
     text-shadow: 3px 3px 5px rgb(0, 0, 0);
+    background-image: url("https://tse2.mm.bing.net/th/id/OIP.Wm5kw8OQgP9-iXVl0Fx5zwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"), url("https://i1.sndcdn.com/artworks-QeXHijGInbcBkZyq-O2odCQ-t500x500.jpg"), url("https://tse1.mm.bing.net/th/id/OIP.9s8n2l7mXo3a5j6e7v0c9gHaE8?rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size: 80px;
+    background-repeat: no-repeat;
+    background-position: top center, top left, top right;
+}
+nav li a:hover{
+    color:lightblue;
 }
